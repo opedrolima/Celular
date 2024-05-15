@@ -1,0 +1,96 @@
+body {
+  font-family: Tahoma;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+  min-height: 100vh;
+  position: relative;
+  /* background-image: url('accessory-decorative-beach-objects.jpg');
+  background-size: cover;
+  background-repeat: no-repeat; */
+
+}
+.container  {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .navbar {
+    background-color: #333;
+    color: #e4bc0c;
+    padding: 10px 0;
+  }
+  
+  .navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 24px;
+    text-decoration: none;
+    color: #e4bc0c;
+  }
+  
+  .nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+  }
+  
+  .nav-links li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .nav-links li a {
+    text-decoration: none;
+    color: #e4bc0c;
+  }
+  
+  .logo {
+    font-size: 24px;
+    text-decoration: none;
+    color: #e4bc0c;
+  }
+
+
+
+  .login-bar{
+    border-radius: 25px;
+    background-color: #e4bc0c;
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .login{
+    
+    font-size: 20px;
+    justify-content: space-around;
+    align-items: center;
+    display:flex;
+    flex-direction: row;
+  }
+
+  .container2{
+    height: 1000px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .footer {
+    background-color: #333;
+    color: #e4bc0c;
+    text-align: center;
+    padding: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+    height: 80px;
+  }
+  
