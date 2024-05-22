@@ -26,7 +26,7 @@ body {
   }
   
   .logo {
-    font-size: 24px;
+    font-size: 28px;
     text-decoration: none;
     color: #e4bc0c;
   }
@@ -75,7 +75,7 @@ body {
   
   .product-description {
     margin: 15px 0;
-    color: #666;
+    color: #5c5a5a;
   }
   
   .product-price {
